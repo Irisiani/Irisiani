@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to Starscape :dizzy:
+### I'm a beginner getting into coding and github in general, and am excited to see what comes next!
 
 <!--
 **Irisiani/Irisiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
