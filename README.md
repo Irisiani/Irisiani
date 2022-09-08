@@ -1,4 +1,4 @@
-### Welcome to Starscape :dizzy:
+### Welcome! :dizzy:
 ### I'm a beginner getting into coding and github in general, and am excited to see what comes next!
 
 <!--
